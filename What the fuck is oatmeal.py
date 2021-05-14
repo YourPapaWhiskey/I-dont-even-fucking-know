@@ -1,13 +1,13 @@
 #What the fuck is oatmeal?
 import time
 print('What the fuck is oatmeal?')
-sleep.time(3)
+time.sleep(3)
 print('May nobody know the answer?')
-sleep.time(5)
+time.sleep(5)
 print('I may never know...')
-sleep.time(2)
+time.sleep(2)
 print('What the fuck is oatmeal.')
-sleep.time(1.5)
+time.sleep(1.5)
 userInput = input('Will you please tell me? \n')
 if userInput == 'Oats':
     print('Thank you. I may finally rest easy.')
